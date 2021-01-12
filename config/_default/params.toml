@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = false, page = false, post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -100,7 +100,7 @@ address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -141,10 +141,10 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = false}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -225,7 +225,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

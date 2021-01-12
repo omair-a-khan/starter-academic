@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-01-12T19:52:21.442478Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'A series of 2‐alkyl/aryl‐4H‐benzo[1,4]thiazine‐3‐ones have been synthesized by microwave irradiation of ethyl‐2‐bromo‐2‐alkyl/aryl acetate and 2‐amino thiophenol in the presence of 1,8‐diazabicyclo‐[5.4.0] undec‐7‐ene and N‐methylpiperidine. All compounds were characterized by 1H NMR, 13C NMR and elemental analyses, and by X‐ray crystallography in the case of 2‐methyl‐4H‐benzo[1,4]thiazin‐3‐one.'
 publication: '*Journal of Heterocyclic Chemistry*'
 doi: 10.1002/jhet.5570430632
 ---

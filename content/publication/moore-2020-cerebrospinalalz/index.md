@@ -44,7 +44,23 @@ projects: []
 publishDate: '2021-01-12T19:52:20.735129Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: '
+Introduction: 
+
+Patterns of atrophy can distinguish normal cognition from Alzheimer's disease (AD), but neuropathological drivers of this pattern are unknown. This study examined associations between cerebrospinal fluid biomarkers of AD pathology, synaptic dysfunction, and neuroaxonal injury with two AD imaging signatures. 
+
+Methods: 
+
+Signatures were calculated using published guidelines. Linear regressions related each biomarker to both signatures, adjusting for demographic factors. Bootstrapped analyses tested if associations were stronger with one signature versus the other. 
+
+Results: 
+
+Increased phosphorylated tau (p‐tau), total tau, and neurofilament light (P‐values <.045) related to smaller signatures (indicating greater atrophy). Diagnosis and sex modified associations between p‐tau and neurogranin (P‐values<.05) and signatures, such that associations were stronger among participants with mild cognitive impairment and female participants. The strength of associations did not differ between signatures. 
+
+Discussion: 
+
+Increased evidence of neurodegeneration, axonopathy, and tau phosphorylation relate to greater AD‐related atrophy. Tau phosphorylation and synaptic dysfunction may be more prominent in AD‐affected regions in females.
+'
 publication: "*Alzheimer's & Dementia*"
 doi: 10.1002/alz.12087
 ---

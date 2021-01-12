@@ -34,7 +34,7 @@ projects: []
 publishDate: '2021-01-12T19:39:39.062197Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: '4,4‐Dialkyl and 4,4‐diaryl‐4H‐benzo[d][1,3]oxathiin‐2‐ones were synthesized by the reaction of 2‐(mercapto‐phenyl)‐dialkyl‐ (or diaryl)‐methanol with CDI in excellent yield. The 2‐(mercaptophenyl)‐dialkyl‐ (or diaryl)‐methanols were prepared by the reaction of commercially available methylthiosalicylate with an appropriate alkyl or aryl Grignard reagent.'
 publication: '*Synthetic Communications*'
 doi: 10.1080/00397910500522140
 ---

@@ -42,7 +42,17 @@ projects: []
 publishDate: '2021-01-12T19:39:35.715180Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: '
+Background: Subclinical reductions in cardiac output correspond to lower cerebral blood flow (CBF), placing the brain at risk for functional changes.
+
+Objectives: This study aims to establish the consequences of reduced cardiac output on longitudinal cognitive outcomes in aging adults.
+
+Methods: Vanderbilt Memory and Aging Project participants free of clinical dementia and heart failure (n = 306, 73 ± 7, 58% male) underwent baseline echocardiography to assess cardiac output (L/min) and longitudinal neuropsychological assessment at baseline, 18 months, 3 and 5 years. Linear mixed-effects regressions related cardiac output to trajectory for each longitudinal neuropsychological outcome, adjusting for age, sex, race/ethnicity, education, body surface area, Framingham Stroke Risk Profile score, apolipoprotein E (APOE) ε4 status and follow-up time. Models were repeated, testing interactions with cognitive diagnosis and APOE-ε4 status.
+
+Results: Lower baseline cardiac output related to faster declines in language (β = 0.11, p = 0.01), information processing speed (β = 0.31, p = 0.006), visuospatial skills (β = 0.09, p = 0.03), and episodic memory (β = 0.02, p = 0.001). No cardiac output x cognitive diagnosis interactions were observed (p > 0.26). APOE-ε4 status modified the association between cardiac output and longitudinal episodic memory (β = 0.03, p = 0.047) and information processing speed outcomes (β = 0.55, p = 0.02) with associations stronger in APOE-ε4 carriers.
+
+Conclusion: The present study provides evidence that even subtle reductions in cardiac output may be associated with more adverse longitudinal cognitive health, including worse language, information processing speed, visuospatial skills, and episodic memory performances. Preservation of healthy cardiac functioning is important for maintaining optimal brain aging among older adults.
+'
 publication: '*Frontiers in Psychology*'
 doi: 10.3389/fpsyg.2020.569355
 ---

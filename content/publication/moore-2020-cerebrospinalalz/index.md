@@ -45,7 +45,7 @@ publishDate: '2021-01-12T19:52:20.735129Z'
 publication_types:
 - '2'
 abstract: "
-**Introduction:** Patterns of atrophy can distinguish normal cognition from Alzheimers disease (AD), but neuropathological drivers of this pattern are unknown. This study examined associations between cerebrospinal fluid biomarkers of AD pathology, synaptic dysfunction, and neuroaxonal injury with two AD imaging signatures. <br /><br />
+**Introduction:** Patterns of atrophy can distinguish normal cognition from Alzheimer\'s disease (AD), but neuropathological drivers of this pattern are unknown. This study examined associations between cerebrospinal fluid biomarkers of AD pathology, synaptic dysfunction, and neuroaxonal injury with two AD imaging signatures. <br /><br />
 
 **Methods:** Signatures were calculated using published guidelines. Linear regressions related each biomarker to both signatures, adjusting for demographic factors. Bootstrapped analyses tested if associations were stronger with one signature versus the other. <br /><br />
 

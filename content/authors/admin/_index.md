@@ -16,21 +16,21 @@ organizations:
   url: https://www.vumc.org/vmac/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Functional Programming
+- Mixed-Effects Models
+- Mediation Analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: Masters of Applied Statistics
+  - course: Master of Applied Statistics
     institution: The Pennsylvania State University
     year: 2016
-  - course: Bachelors of Science, Biochemistry
+  - course: Bachelor of Science, Biochemistry
     institution: Southern Methodist University
     year: 2007
 

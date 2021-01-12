@@ -63,6 +63,8 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am a biostatistician and R developer at Vanderbilt University Medical Center in Nashville, TN. My primary collaboration is with the Vanderbilt Memory & Alzheimer’s Center, a talented team of clinicians and scientists who help advance the understanding of risk factors, early diagnostic markers, and prevention and treatment methods for memory loss and unhealthy cognitive aging. I am particularly interested in developing software tools to minimize the challenges associated with collaborations between statisticians and other scientists.
+Hello! I am a biostatistician and R developer at Vanderbilt University Medical Center Department of Biostatistics in Nashville, TN. My primary collaboration is with the Vanderbilt Memory & Alzheimer’s Center, a talented team of clinicians and scientists who help advance the understanding of risk factors, early diagnostic markers, and prevention and treatment methods for memory loss and unhealthy cognitive aging. I am particularly interested in developing software tools to minimize the challenges associated with collaborations between statisticians and other scientists.
+
+When I'm not coding, I like to study foreign languages, cook delicious food, and play video games.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

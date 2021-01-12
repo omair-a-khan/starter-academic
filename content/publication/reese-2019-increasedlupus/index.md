@@ -13,7 +13,7 @@ authors:
 - A Barnado
 - KA Barker
 - JE Neal
-- **OA Khan**
+- OA Khan
 - WD Dupont
 - CM Stein
 - CP Chung

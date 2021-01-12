@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - KE Osborn
-- **OA Khan**
+- OA Khan
 - HA Kresge
 - CW Bown
 - D Liu

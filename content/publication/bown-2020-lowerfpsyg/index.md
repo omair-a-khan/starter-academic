@@ -7,7 +7,7 @@ summary: ''
 authors:
 - CW Bown
 - R Do
-- **OA Khan**
+- OA Khan
 - D Liu
 - FE Cambronero
 - EE Moore

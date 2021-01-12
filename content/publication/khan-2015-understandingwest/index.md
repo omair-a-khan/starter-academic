@@ -5,7 +5,7 @@ title: 'Understanding statistics for quality by design: a technical document ser
 subtitle: ''
 summary: ''
 authors:
-- **OA Khan**
+- OA Khan
 tags: []
 categories: []
 date: '2015-01-01'

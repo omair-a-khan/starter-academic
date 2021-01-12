@@ -8,7 +8,7 @@ summary: ''
 authors:
 - S Kamila
 - B Koh
-- **O Khan**
+- O Khan
 - H Zhang
 - ER Biehl
 tags: []

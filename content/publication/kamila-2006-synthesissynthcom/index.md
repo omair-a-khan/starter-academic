@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - S Kamila
-- **O Khan**
+- O Khan
 - H Zhang
 - ER Biehl
 tags: []

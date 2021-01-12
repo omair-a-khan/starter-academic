@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - JS Gandelman
-- **OA Khan**
+- OA Khan
 - MM Shuey
 - JE Neal
 - E McNeer

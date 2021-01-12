@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - HA Kresge
-- **OA Khan**
+- OA Khan
 - MA Wagener
 - D Liu
 - JG Terry

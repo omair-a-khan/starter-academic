@@ -9,7 +9,7 @@ summary: ''
 authors:
 - EE Moore
 - KA Gifford
-- **OA Khan**
+- OA Khan
 - D Liu
 - KR Pechman
 - LMY Acosta

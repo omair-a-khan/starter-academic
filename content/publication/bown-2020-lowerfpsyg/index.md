@@ -44,7 +44,7 @@ publication_types:
 - '2'
 abstract: '
 Background: Subclinical reductions in cardiac output correspond to lower cerebral blood flow (CBF), placing the brain at risk for functional changes.
-
+<br />
 Objectives: This study aims to establish the consequences of reduced cardiac output on longitudinal cognitive outcomes in aging adults.
 
 Methods: Vanderbilt Memory and Aging Project participants free of clinical dementia and heart failure (n = 306, 73 ± 7, 58% male) underwent baseline echocardiography to assess cardiac output (L/min) and longitudinal neuropsychological assessment at baseline, 18 months, 3 and 5 years. Linear mixed-effects regressions related cardiac output to trajectory for each longitudinal neuropsychological outcome, adjusting for age, sex, race/ethnicity, education, body surface area, Framingham Stroke Risk Profile score, apolipoprotein E (APOE) ε4 status and follow-up time. Models were repeated, testing interactions with cognitive diagnosis and APOE-ε4 status.

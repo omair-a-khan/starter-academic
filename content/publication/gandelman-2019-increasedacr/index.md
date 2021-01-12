@@ -1,25 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Lower cardiac output relates to longitudinal cognitive decline in aging adults
+title: 'Increased incidence of resistant hypertension in patients with systemic lupus
+  erythematosus: a retrospective cohort study'
 subtitle: ''
 summary: ''
 authors:
-- Corey W Bown
-- Rachel Do
-- Omair A Khan
-- Dandan Liu
-- Francis E Cambronero
-- Elizabeth Moore
-- Katie E Osborn
-- Deepak K Gupta
-- Kimberly R Pechman
-- Lisa A Mendes
-- ' others'
+- JS Gandelman
+- **OA Khan**
+- MM Shuey
+- JE Neal
+- E McNeer
+- A Dickson
+- A Barnado
+- L Wang
+- P Anandi
+- WD Dupont
+- CM Stein
+- CP Chung
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-12T12:42:24-06:00
+date: '2019-01-01'
+lastmod: 2021-01-12T13:39:39-06:00
 featured: false
 draft: false
 
@@ -37,9 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-12T18:42:24.833207Z'
+publishDate: '2021-01-12T19:39:38.902055Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Frontiers in Psychology*'
+publication: '*Arthritis Care & Research*'
+doi: 10.1002/acr.23880
 ---

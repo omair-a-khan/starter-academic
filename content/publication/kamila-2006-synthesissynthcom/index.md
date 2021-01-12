@@ -1,25 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Increased Incidence and Prevalance of Resistant Hypertension in Patients with
-  Systemic Lupus Erythematosus: A Retrospective Cohort Study'
+title: Synthesis of 4,4-disubstituted-4H-benzo[d][1,3]oxathiin-2-ones, a new class
+  of compounds
 subtitle: ''
 summary: ''
 authors:
-- Jocelyn S Gandelman
-- Omair A Khan
-- Megan Shuey
-- Jacquelyn E Neal
-- Alyson Dickson
-- April Barnado
-- Li Wang
-- William Dupont
-- C Michael Stein
-- Cecilia P Chung
+- S Kamila
+- **O Khan**
+- H Zhang
+- ER Biehl
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-01-12T12:42:24-06:00
+date: '2006-01-01'
+lastmod: 2021-01-12T13:39:39-06:00
 featured: false
 draft: false
 
@@ -37,9 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-12T18:42:24.102990Z'
+publishDate: '2021-01-12T19:39:39.062197Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*ARTHRITIS & RHEUMATOLOGY*'
+publication: '*Synthetic Communications*'
+doi: 10.1080/00397910500522140
 ---

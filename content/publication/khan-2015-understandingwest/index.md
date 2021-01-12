@@ -1,27 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Cerebrospinal fluid biomarkers of neurodegeneration, synaptic dysfunction,
-  and axonal injury relate to atrophy in structural brain regions specific to Alzheimer's
-  disease
+title: 'Understanding statistics for quality by design: a technical document series'
 subtitle: ''
 summary: ''
 authors:
-- Elizabeth E Moore
-- Katherine A Gifford
-- Omair A Khan
-- Dandan Liu
-- Kimberly R Pechman
-- Lealani Mae Y Acosta
-- Susan P Bell
-- Maxim Turchan
-- Bennett A Landman
-- Kaj Blennow
-- ' others'
+- **OA Khan**
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-12T12:42:24-06:00
+date: '2015-01-01'
+lastmod: 2021-01-12T13:39:39-06:00
 featured: false
 draft: false
 
@@ -39,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-12T18:42:24.690455Z'
+publishDate: '2021-01-12T19:39:39.207925Z'
 publication_types:
-- '2'
+- '4'
 abstract: ''
-publication: "*Alzheimer's & Dementia*"
+publication: ''
 ---

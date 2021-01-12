@@ -1,26 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Increased blood pressure visit-to-visit variability in patients with systemic
-  lupus erythematosus: association with inflammation and comorbidity burden'
+title: Cerebrospinal fluid and plasma neurofilament light relate to abnormal cognition
 subtitle: ''
 summary: ''
 authors:
-- Tyler Reese
-- AL Dickson
-- MM Shuey
-- Jocelyn S Gandelman
-- A Barnado
-- KA Barker
-- JE Neal
-- OA Khan
-- WD Dupont
-- CM Stein
-- ' others'
+- KE Osborn
+- **OA Khan**
+- HA Kresge
+- CW Bown
+- D Liu
+- EE Moore
+- KA Gifford
+- LMY Acosta
+- SP Bell
+- TJ Hohman
+- K Blennow
+- H Zetterberg
+- AL Jefferson
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-01-12T12:42:24-06:00
+lastmod: 2021-01-12T13:39:38-06:00
 featured: false
 draft: false
 
@@ -38,9 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-12T18:42:24.255705Z'
+publishDate: '2021-01-12T19:39:38.747091Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Lupus*'
+publication: "*Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*"
+doi: 10.1016/j.dadm.2019.08.008
 ---

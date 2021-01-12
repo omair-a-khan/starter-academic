@@ -7,7 +7,7 @@ summary: ''
 authors:
 - CW Bown
 - R Do
-- OA Khan
+- **OA Khan**
 - D Liu
 - FE Cambronero
 - EE Moore
@@ -21,7 +21,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-01-12T12:56:47-06:00
+lastmod: 2021-01-12T13:39:38-06:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-12T18:56:47.531218Z'
+publishDate: '2021-01-12T19:39:35.715180Z'
 publication_types:
 - '2'
 abstract: ''

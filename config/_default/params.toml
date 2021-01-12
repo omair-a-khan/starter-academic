@@ -93,7 +93,7 @@ phone = "615.343.3921"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Biostatistics, 2525 West End Ave Ste 1100, Vanderbilt University Medical Center", city = "Nashville", region = "TN", postcode = "37203-1741", country = "United States", country_code = "US"}
+address = {street = "VUMC Department of Biostatistics, 2525 West End Ave Ste 1100", city = "Nashville", region = "TN", postcode = "37203-1741", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

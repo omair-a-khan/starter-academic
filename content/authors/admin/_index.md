@@ -21,6 +21,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Functional Programming
+- Research Software Development
 - Mixed-Effects Models
 - Mediation Analysis
 

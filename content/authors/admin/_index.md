@@ -22,6 +22,7 @@ organizations:
 interests:
 - Functional Programming
 - Research Software Development
+- Reproducible Research
 - Mixed-Effects Models
 - Mediation Analysis
 
@@ -64,8 +65,8 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am a biostatistician and R developer at Vanderbilt University Medical Center in the Department of Biostatistics in Nashville, TN. My primary collaboration is with the Vanderbilt Memory & Alzheimer’s Center, a talented team of clinicians and scientists committed to uncovering how cardiovascular health affects Alzheimer's disease pathology and cognitive decline in older adults. I use the R programming language to conduct statistical analyses that employ a modern approach--common methods include mixed-effects regression models, nonparametric bootstrap resampling, and mediation analysis. R is a great tool for me to use because I'm able to combine R code with Markdown, $\mathrm{\LaTeX}$, and JavaScript to create dynamic, reproducible reports; it has an active community of open-source developers that I participate in; it is a functional programming language; and because it is fun to use.
+Hello! I am a biostatistician and R developer at Vanderbilt University Medical Center in the Department of Biostatistics in Nashville, TN. My primary collaboration is with the Vanderbilt Memory & Alzheimer’s Center, a talented team of clinicians and scientists committed to uncovering how cardiovascular health affects Alzheimer's disease pathology and cognitive decline in older adults. I use the R programming language to conduct statistical analyses that employ a modern approach--common methods include mixed-effects regression models, nonparametric bootstrap resampling, and mediation analysis. R is a great tool for me to use because I'm able to combine R code with Markdown, $\mathrm{\LaTeX}$, and JavaScript to create dynamic, reproducible reports; it has an active community of open-source developers that I love participating in; it is a functional programming language; and because it is fun to use.
  
-In addition to conducting statistical analyses, I create software tools that help address unique challenges that arise in the collaboration between statisticians and other scientists. Examples of these tools include a research package that automates the highly complex process of generating a master dataset, a package that allows the user to create a codebook to accompany the sharing of a dataset, and a web app that allows users to perform basic exploratory data analysis without needing to write any code or submit a statistical request.
+In addition to conducting statistical analyses, I create software tools that help address unique challenges that arise in the collaboration between statisticians and other scientists. Examples of these tools include a research package that automates the highly complex process of generating a master dataset, a package that allows the user to create a codebook to accompany the sharing of a dataset, and a web app that lets users perform basic exploratory data analysis without needing to write any code or submit a statistical request.
 
 Outside of my work, I like to study foreign languages, cook food, and play video games. Please feel free to shoot me an email if you would like to chat!

@@ -69,4 +69,4 @@ Hello! I am a biostatistician and R developer at Vanderbilt University Medical C
  
 In addition to conducting statistical analyses, I create software tools that help address unique challenges that arise in the collaboration between statisticians and other scientists. Examples of these tools include a research package that automates the highly complex process of generating a master dataset, a package that allows the user to create a codebook to accompany the sharing of a dataset, and a web app that lets users perform basic exploratory data analysis without needing to write any code or submit a statistical request.
 
-Outside of my work, I like to study foreign languages, cook, and play video games. Please feel free to shoot me an email if you would like to chat!
+Outside of my work, I like to study languages, cook, and play video games. Please feel free to shoot me an email if you would like to chat!

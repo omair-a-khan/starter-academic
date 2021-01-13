@@ -63,7 +63,12 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am a biostatistician and R developer at Vanderbilt University Medical Center Department of Biostatistics in Nashville, TN. My primary collaboration is with the Vanderbilt Memory & Alzheimer’s Center, a talented team of clinicians and scientists who help advance the understanding of risk factors, early diagnostic markers, and prevention and treatment methods for memory loss and unhealthy cognitive aging. I am particularly interested in developing software tools to minimize the challenges associated with collaborations between statisticians and other scientists.
+Hello! I am a biostatistician and R developer at Vanderbilt University Medical Center in the Department of Biostatistics in Nashville, TN. My primary collaboration is with the Vanderbilt Memory & Alzheimer’s Center (VMAC), a talented team of clinicians and scientists committed to uncovering how cardiovascular health affects Alzheimer's disease pathology and cognitive decline in older adults. I use the R programming language to conduct statistical analyses for this group that employ a modern approach--common methods include mixed-effects regression models, nonparametric bootstrap resampling, and mediation analysis. R is a great tool to use because:
+ - it has an active community of developers, committed to improving R's functionality;
+ - it is easy to mix R code with Markdown, $\LaTeX$, and JavaScript which I use to create good-looking, reproducible, interactive reports and web apps;
+ - it is free and open-source;
+ - it is a functional programming language, which means it has referential transparency, allows lazy evaluation, and is easy to read and debug;
+ - and because it is fun to use.
 
 When I'm not coding, I like to study foreign languages, cook delicious food, and play video games.
 

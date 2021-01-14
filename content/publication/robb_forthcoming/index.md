@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Lower cerebral oxygen utilization is associated with Alzheimer\'s disease-related neurodegeneration and poorer cognitive performance among apolipoprotein E ε4 carriers'
+title: "Lower cerebral oxygen utilization is associated with Alzheimer's disease-related neurodegeneration and poorer cognitive performance among apolipoprotein E ε4 carriers"
 subtitle: ''
 summary: ''
 authors:

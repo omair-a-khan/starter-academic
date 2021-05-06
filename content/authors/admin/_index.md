@@ -6,7 +6,7 @@ title: Omair A. Khan
 superuser: true
 
 # Role/position/tagline
-role: Biostatistician III
+role: Sr Biostatistician
 
 # Organizations/Affiliations to show in About widget
 organizations:

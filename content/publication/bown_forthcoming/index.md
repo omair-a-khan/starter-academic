@@ -7,9 +7,9 @@ summary: ''
 authors:
 - CW Bown
 - OA Khan
+- EE Moore
 - D Liu
 - KR Pechman
-- EE Moore
 - FE Cambronero
 - JG Terry
 - S Nair
@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: 'forthcoming'
-lastmod: 2021-01-14
+lastmod: 2021-05-05
 featured: false
 draft: false
 
@@ -51,5 +51,5 @@ abstract: "
 
 **Conclusions:** In older adults, higher baseline aortic PWV related to grey matter atrophy and increased white matter hyperintensities over time. Because of unmet cerebral metabolic demands, microvascular remodeling, and increased vascular resistance, arterial stiffening may preferentially affect certain highly active brain regions like the temporal and parietal lobes. Interestingly, these same regions correspond to areas of early Alzheimer’s disease pathology deposition. 
 "
-publication: 'Submitted to *JAMA Neurology*'
+publication: 'Submitted to *Arteriosclerosis, Thrombosis, and Vascular Biology*'
 ---
